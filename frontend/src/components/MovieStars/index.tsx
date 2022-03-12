@@ -39,7 +39,7 @@ function Star({ fill }: StarProps) {
     return <StarFull />;
   }
 
-  return <StarEmpty />;
+  return <StarHalf />;
 }
 
 function MovieStars({ score }: Props) {
