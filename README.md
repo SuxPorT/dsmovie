@@ -22,6 +22,7 @@
 
 - [Episódio 1](./Episodio01.md)
 - [Episódio 2](./Episodio02.md)
+- [Episódio 3](./Episodio03.md)
 
 ## Página de inscrição do evento
 
